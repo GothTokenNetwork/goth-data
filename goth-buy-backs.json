@@ -3,7 +3,7 @@
         "TxHash": "Test",
         "Timestamp": "1653609730",
         "GasPaid": "125338",
-        "AvaxOut": "100000000000000",
-        "GothIn": "1000000000000000000"
+        "AvaxOut": "0",
+        "GothIn": "0"
     }
 ]
