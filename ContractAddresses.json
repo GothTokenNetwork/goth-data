@@ -1,0 +1,26 @@
+{
+    "GothV1": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0xCcBeCdF71Ba5CA7f8242Ae582D80489ed2d76F8a"
+    },
+    "GothV2": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0x2A3C5c3206BDD52bE513b0eEeFD07aE059E45386"
+    },
+    "GothStake": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0xc83E35cd0D938c751B7f0C2e4d7c4bcF58180bc9"
+    },
+    "JLP": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0x1576De58Ca6f9B1a797B192c321Ed40034806fFc"
+    },
+    "WAVAX": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0x5e6e168933f96e62d721982123c5a11b0e288440"
+    },
+    "Router": {
+        "_mainnetAddress": "mainnet",
+        "_testnetAddress": "0xAf4FD0cc08008C13A887f8EF4FE4001bBbD02F89"
+    }
+}
